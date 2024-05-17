@@ -5,7 +5,7 @@ logo: "/images/logos/foundation-logo.png"
 footer_content: "Copyright &copy; 2017-2021 Administrator_Mr's SCP Foundation."
 
 color_scheme: scpf
-
+url: "https://sharkys-basemeant.github.io/docs/"
 callouts:
   important:
     title: Important
